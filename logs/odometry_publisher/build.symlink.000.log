@@ -1,0 +1,4 @@
+Symlinking /home/yyj/catkin_ws/devel/lib/pkgconfig/odometry_publisher.pc
+Symlinking /home/yyj/catkin_ws/devel/lib/odometry_publisher/odometry_publisher_node
+Symlinking /home/yyj/catkin_ws/devel/share/odometry_publisher/cmake/odometry_publisherConfig.cmake
+Symlinking /home/yyj/catkin_ws/devel/share/odometry_publisher/cmake/odometry_publisherConfig-version.cmake

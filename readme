@@ -1,0 +1,11 @@
+✅️yolov5 실행
+
+roslaunch yolov5_ros yolov5.launch device:=cpu
+roslaunch usb_cam usb_cam.launch 
+					(video_device: /dev/video2 	)
+					(framerate: 10 		)
+
+✅️rosserial 실행
+
+rosrun rosserial_python serial_node.py _port:=/dev/ttyACM0 _baud:=9600
+rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB0 _baud:=9600

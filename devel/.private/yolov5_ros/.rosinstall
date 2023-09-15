@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yyj/catkin_ws/devel/.private/yolov5_ros/setup.sh

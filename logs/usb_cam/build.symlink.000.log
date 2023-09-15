@@ -1,0 +1,6 @@
+Symlinking /home/yyj/catkin_ws/devel/lib/libusb_cam.so
+Symlinking /home/yyj/catkin_ws/devel/lib/libv4l_driver.so
+Symlinking /home/yyj/catkin_ws/devel/lib/pkgconfig/usb_cam.pc
+Symlinking /home/yyj/catkin_ws/devel/lib/usb_cam/usb_cam_node
+Symlinking /home/yyj/catkin_ws/devel/share/usb_cam/cmake/usb_camConfig.cmake
+Symlinking /home/yyj/catkin_ws/devel/share/usb_cam/cmake/usb_camConfig-version.cmake

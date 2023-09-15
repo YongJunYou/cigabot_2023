@@ -1,0 +1,8 @@
+prefix=/home/yyj/catkin_ws/devel/.private/odometry_publisher
+
+Name: odometry_publisher
+Description: Description of odometry_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
